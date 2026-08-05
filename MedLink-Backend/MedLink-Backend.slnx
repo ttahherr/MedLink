@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="MedLink.API/MedLink.API.csproj" />
+  <Project Path="MedLink.Application/MedLink.Application.csproj" />
+  <Project Path="MedLink.Domain/MedLink.Domain.csproj" />
+  <Project Path="MedLink.Infrastructure/MedLink.Infrastructure.csproj" />
 </Solution>

@@ -1,0 +1,12 @@
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/bin/Debug/net10.0/MedLink.Application.deps.json
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/bin/Debug/net10.0/MedLink.Application.dll
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/bin/Debug/net10.0/MedLink.Application.pdb
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.AssemblyInfoInputs.cache
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.AssemblyInfo.cs
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.csproj.CoreCompileInputs.cache
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.sourcelink.json
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.dll
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/refint/MedLink.Application.dll
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/MedLink.Application.pdb
+/run/media/taher/D/Projects/MedLink/MedLink-Backend/MedLink.Application/obj/Debug/net10.0/ref/MedLink.Application.dll

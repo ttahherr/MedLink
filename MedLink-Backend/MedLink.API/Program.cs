@@ -14,6 +14,7 @@ namespace MedLink.API
                 options.AddPolicy("AllowAll", builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             });
             builder.Services.AddInfrastructureServices(builder.Configuration);
+            builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 

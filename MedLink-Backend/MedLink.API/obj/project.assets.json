@@ -1163,7 +1163,10 @@
         },
         "runtime": {
           "bin/placeholder/MedLink.Infrastructure.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },

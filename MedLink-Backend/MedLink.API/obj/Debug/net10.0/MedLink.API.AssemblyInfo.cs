@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedLink.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9330c81efd15fef0977835b726d0331154ba79ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c2b0ca55b0d2d5fe81d31e8f0d145be8c884ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedLink.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedLink.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
